@@ -1,0 +1,140 @@
+
+        body {
+            background-color:  #a3a1a1 ;
+            text-align: center;
+            
+            font-size: 2em;
+            
+        }
+        .top-container{
+            
+            position: relative;
+            padding-top: 80px;
+            margin-bottom: 50px;
+        }
+        
+        
+        .top-cloud{
+            position: absolute;
+            right: 10%;
+            top: 20px;
+        }
+       
+        .bottom-cloud{
+            position: absolute;
+            left: 10%;
+            bottom: 300px;
+        }
+        .bottom-rcloud{
+            position: absolute;
+            right: 10%;
+            bottom: 300px;
+        }
+        .top-rlogo{
+            border: black;
+            border:2px solid black;
+            position: absolute;
+            top: 15px;
+            left: 12%;
+            
+            width: 90px;           
+            border-radius: 100% ;
+           
+        }
+        .logo-img{
+            border-radius: 100%;
+            border:2px solid black;
+        }
+        h1{
+            font-size: 5.82rem;
+            margin: 20px auto 0 auto;
+            font-family: 'Sacramento', cursive;
+            color: black;
+            font-weight: normal;
+
+    
+
+        }
+        h2{
+            font-size: 2.5rem;
+            color: black;
+            font-weight: normal;
+            font-family: 'Alegreya Sans', sans-serif;
+
+        }
+        h3{
+            font-size: 2rem;
+            color: rgb(54, 36, 36);
+            font-family: 'Alegreya Sans', sans-serif;
+            font-weight: normal;
+
+        }
+        a{
+            color: rgb(136, 77, 77);
+            font-family: 'Quicksand', sans-serif;
+        }
+        .btn{
+            background-color: rgb(99, 95, 95);
+            color: rgb(46, 44, 44);
+            font-family: 'Sacramento', cursive;
+            font-weight: bold;
+            padding: 0 5px 0 5px;
+            
+        }
+        .btn:hover{
+            color: black;
+            font-size: 2.2rem;
+        }
+        P{
+            font-family: 'Quicksand', sans-serif;
+            font-size: 1.35rem;
+            font-weight:normal ;
+            color: rgb(59, 41, 41);
+            
+        }
+        .skill-row{
+            width: 50%;
+            margin: 100px auto 100px auto;
+            text-align: left;
+            
+        }
+        .writing{
+            width: 25%;
+            float: left;
+            margin-right: 30px;
+        }
+        .computer{
+            width: 25%;
+            float: right;
+        }
+        .info{
+            margin-top: 0px;
+        }
+        .hline{
+            border-style: none;
+            border-top-style: dotted;
+            border-color: crimson;
+            border-width: 5px;
+            width: 5%;
+            margin-bottom: 100px;
+        }
+        .profile{
+            margin-bottom: 100px;
+        }
+        .contact-me{
+            margin-bottom: 100px;
+
+        }
+        .para1{
+            margin: 0 25% 20px 25%;
+            
+        }
+        .social-icon{
+            width: 4%;
+            margin: 0 1% 1% 1%;
+        }
+        .social-icon:hover{
+           width: 6%;
+        }
+        
+        
